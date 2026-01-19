@@ -82,10 +82,19 @@ If you use VS Code:
 Dark glassmorphism card • neon indicators • real-time feedback
 (Add screenshots here for portfolio visibility)
 
-## 👨‍💻 Author
+---
 
-Chanukya Chintada
-Cybersecurity Student | Security Enthusiast | Developer 
+## ⭐ Support
+
+If you found this project useful or enjoyed playing it, please consider giving this repository a ⭐ on GitHub.  
+Your support helps improve the project and motivates further enhancements and features.
+
+---
+
+## 👤 Author
+
+**Chintada Chanukya Venkata Sai**  
+Computer Science & Engineering Student | Cybersecurity Student | Cybersecurity Enthusiast  
 
 ### 🌐 Portfolio: https://chanukyachintada.vercel.app
 
