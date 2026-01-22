@@ -61,7 +61,7 @@ If you use VS Code:
 
 ### 🌐 Website: https://chanukyachintada06.github.io/Password-Strength-Analyzer/
 
-### 🐙 GitHub: https://github.com/chanukyachintada06
+### 🐙 GitHub: https://github.com/chanukyachintada06/Password-Strength-Analyzer/
 
 ## 🎯 Why This Project Matters
 
