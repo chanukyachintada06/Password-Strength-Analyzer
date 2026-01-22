@@ -59,7 +59,7 @@ If you use VS Code:
 
 ## 🌐 Live Demo
 
-### 🌐 Website: https://chanukyachintada.vercel.app
+### 🌐 Website: https://chanukyachintada06.github.io/Password-Strength-Analyzer/
 
 ### 🐙 GitHub: https://github.com/chanukyachintada06
 
